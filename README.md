@@ -195,10 +195,3 @@ This is a learning/demo project. Suggestions for improvements:
 ## 📄 License
 
 MIT License - feel free to use this project for learning and portfolio purposes.
-
-## 🙏 Acknowledgments
-
-- Built following Tech With Tim tutorials
-- FastAPI documentation
-- fastapi-users library maintainers
-- ImageKit for CDN services
